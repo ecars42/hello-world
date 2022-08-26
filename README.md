@@ -1,2 +1,3 @@
 # hello-world
 This is the first project for CSCI 1000 at CU Boulder
+A little bit about myself. Haha just kidding. I am from New Jersey and learned to code in high school. My first computer science class was Cybsersecurity and from there I took both AP CS courses and worked on the highschool webteam and the district webteam. I ran the high school website including an app that told users when classes changed, which rotating drop day it was, and if there was a special schedule. I love food and music. Honestly, I could talk about music for hours on end and find myself meeting the people who I get along with most through common taste in music. 
